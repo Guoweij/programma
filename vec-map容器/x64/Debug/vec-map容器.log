@@ -1,0 +1,5 @@
+﻿  员工分组.cpp
+G:\Ctest\vec-map容器\员工分组.cpp(44,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Ctest\vec-map容器\员工分组.cpp(54,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\Ctest\vec-map容器\员工分组.cpp(64,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  vec-map容器.vcxproj -> G:\Ctest\vec-map容器\x64\Debug\vec-map容器.exe
